@@ -1,0 +1,7 @@
+pandas
+numpy
+pyRAPL
+pymongo
+datasynthesizer
+opendp
+anonymeter
